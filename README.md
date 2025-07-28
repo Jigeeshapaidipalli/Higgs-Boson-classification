@@ -9,7 +9,7 @@ This project is based on my research published in:
 Volume 8, Issue 2, 2025  
 Title: Enhancing Higgs Boson Classification using Deep Learning
 
-📥 **[Download the Published Paper](
+📥 **[Download the Published Paper](https://github.com/Jigeeshapaidipalli/Higgs-Boson-classification/blob/main/IJSRED-V8I2P239%20(1).pdf)
 
 
 ## 📌 Overview
