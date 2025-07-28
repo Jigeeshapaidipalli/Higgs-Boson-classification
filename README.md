@@ -2,9 +2,14 @@
 
 This project implements a *Deep Learning model* to classify Higgs Boson particle events using high-dimensional data from the CERN dataset. The work focuses on improving classification accuracy using *feature engineering, hyperparameter tuning, and AutoML techniques*.  
 
-This research is based on my *published paper* in the  
+## 📄 Publication
+
+This project is based on my research published in:  
 *International Journal of Scientific Research and Engineering Development (IJSRED)*  
 Volume 8, Issue 2, 2025  
+Title: Enhancing Higgs Boson Classification using Deep Learning
+
+📥 **[Download the Published Paper](
 
 
 ## 📌 Overview
